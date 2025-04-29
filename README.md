@@ -5,14 +5,14 @@ Este repositório contém um guia prático para utilização do Azure Databricks
 ## 📋 Índice
 
 - [Introdução](#-introdução)
-- [Entendendo o Azure Databricks](#entendendo-o-azure-databricks)
-- [Azure Databricks Exercises](#azure-databricks-exercises)
-- [Explore o Azure Databricks](#explore-o-azure-databricks)
-  - [Provisionando um Databricks](#provisionando-um-databricks)
-  - [Criando um Cluster Manualmente](#criando-um-cluster-manualmente)
-  - [Usando o Spark para Analisar Dados](#usando-o-spark-para-analisar-dados)
-- [Encerramento](#encerramento)
-- [Materiais de Apoio](#materiais-de-apoio)
+- [Entendendo o Azure Databricks](#-entendendo-o-azure-databricks)
+- [Azure Databricks Exercises](#-azure-databricks-exercises)
+- [Explore o Azure Databricks](#-explore-o-azure-databricks)
+  - [Provisionando um Databricks](#-provisionando-um-databricks)
+  - [Criando um Cluster Manualmente](#-criando-um-cluster-manualmente)
+  - [Usando o Spark para Analisar Dados](#-usando-o-spark-para-analisar-dados)
+- [Encerramento](#-encerramento)
+- [Materiais de Apoio](#-materiais-de-apoio)
 
 ## 🎯 Introdução
 
