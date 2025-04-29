@@ -4,7 +4,7 @@ Este repositório contém um guia prático para utilização do Azure Databricks
 
 ## 📋 Índice
 
-- [Introdução](#introdução)
+- [Introdução](#-introdução)
 - [Entendendo o Azure Databricks](#entendendo-o-azure-databricks)
 - [Azure Databricks Exercises](#azure-databricks-exercises)
 - [Explore o Azure Databricks](#explore-o-azure-databricks)
